@@ -1,4 +1,4 @@
-package log.an.videdressing.com.logmaticvidedressing
+package log.an.videdressing.com.android_logmatic_widget
 
 import org.junit.Test
 
